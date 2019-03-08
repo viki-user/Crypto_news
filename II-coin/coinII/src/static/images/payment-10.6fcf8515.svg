@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="57px" height="60px" viewBox="0 0 57 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 60</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Vision" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g transform="translate(-346.000000, -5590.000000)" id="Group-60" stroke="#000000">
+            <g transform="translate(347.000000, 5591.000000)">
+                <path d="M27.5980392,48.4313725 C38.2702861,48.4313725 47.404273,41.8464052 55,28.6764706 C47.404273,15.5065359 38.2702861,8.92156863 27.5980392,8.92156863 C16.9257923,8.92156863 7.79180542,15.5065359 0.196078431,28.6764706 C3.2785624,33.4823976 5.65759532,36.7993025 7.33317718,38.6271853" id="Oval-7" stroke-width="1.2" stroke-linejoin="round"></path>
+                <polyline id="Star" stroke-width="1.2" stroke-linejoin="round" points="16.8362563 56.420703 13.4803922 54.5208864 7.14857335 57.5265502 8.05048988 50.5758315 3.23529412 45.4827151 10.124528 44.1925985 13.4803922 38.0392157 16.8362563 44.1925985 23.7254902 45.4827151 18.9102944 50.5758315 19.812211 57.5265502"></polyline>
+                <path d="M27.5980392,39.5098039 C33.581124,39.5098039 38.4313725,34.6595554 38.4313725,28.6764706 C38.4313725,22.6933858 33.581124,17.8431373 27.5980392,17.8431373 C21.6149544,17.8431373 16.7647059,22.6933858 16.7647059,28.6764706 C16.7647059,32.2011406 18.4479636,35.3326647 21.0544666,37.3110306" id="Oval-7-Copy" stroke-width="2" stroke-linejoin="round"></path>
+                <path d="M21.8627451,0.429335644 L23.1372549,5.3559103" id="Path-3-Copy-109" stroke-width="1.2"></path>
+                <path d="M34.6078431,0.429335644 L33.3333333,5.3559103" id="Path-3-Copy-110" stroke-width="1.2"></path>
+                <path d="M46.0784314,4.25286506 L43.5294118,7.90492991" id="Path-3-Copy-111" stroke-width="1.2"></path>
+                <path d="M10.3921569,4.25286506 L12.9411765,7.90492991" id="Path-3-Copy-112" stroke-width="1.2"></path>
+            </g>
+        </g>
+    </g>
+</svg>
