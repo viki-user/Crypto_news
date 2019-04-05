@@ -1,0 +1,29 @@
+body{
+    font-family: 'Titillium Web', sans-serif;
+
+
+}
+.navbar{
+    padding: 20px;
+    background-color: #fff0;
+    
+}
+.nav-item{
+    padding: 8px;
+
+}
+.section{
+    padding: 50px;
+	justify-content: center;
+}
+*{
+  box-sizing: border-box;
+}
+svg:not(:root) {
+  overflow: hidden;
+}
+svg[Attributes Style] {
+  width: 352px;
+  height: 356px;
+  transform: translate(6.72635, -1.15179) translate(-176.157, -178.175) scale(1, 1) translate(176.157, 178.175) rotate(0deg, 176.157, 178.175) skewX(0deg) skewY(0deg);
+}
